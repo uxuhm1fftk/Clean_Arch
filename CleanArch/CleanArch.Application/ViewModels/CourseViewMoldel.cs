@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CleanArch.Application.ViewModels
 {
-    public class CourceViewMoldel
+    public class CourseViewMoldel
     {
         public IEnumerable<Course> Courses { get; set; }
     }

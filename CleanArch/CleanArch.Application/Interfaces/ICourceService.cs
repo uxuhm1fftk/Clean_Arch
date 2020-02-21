@@ -7,6 +7,6 @@ namespace CleanArch.Application.Interfaces
 {
     public interface ICourceService
     {
-        CourceViewMoldel GetCourses();
+        CourseViewMoldel GetCourses();
     }
 }
