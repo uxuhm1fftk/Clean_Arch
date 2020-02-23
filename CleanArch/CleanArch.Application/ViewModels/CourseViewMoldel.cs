@@ -8,5 +8,6 @@ namespace CleanArch.Application.ViewModels
     public class CourseViewMoldel
     {
         public IEnumerable<Course> Courses { get; set; }
+        public Course Course { get; set; }
     }
 }
